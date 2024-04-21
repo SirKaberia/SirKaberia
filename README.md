@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Kaberia Mugambi from Kenya<br><br>- 📚 I'm currently learning HTML, Python, MySQL and Dart.<br>- ⚡ In my free time I immerse in sports or gaming.</p>
+<p align="left">I'm Kaberia Mugambi from Kenya<br><br>- 📚 I'm currently learning HTML, Python, MySQL and Dart.<br>- ⚡ In my free time I immerse myself in sports or gaming.</p>
 
 ###
 
